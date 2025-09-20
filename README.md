@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Project Management Dashboard
+## Project Management Dashboard
 
 A dynamic project management dashboard that fetches and displays project data from a JSON API. This responsive web application allows users to view all project tasks and their associated assets in an organized grid layout.
 
