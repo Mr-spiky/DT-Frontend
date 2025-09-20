@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Create README.md file for Project Management Dashboard
-cat > README.md << 'EOF'
 # Project Management Dashboard
 
 A dynamic project management dashboard that fetches and displays project data from a JSON API. This responsive web application allows users to view all project tasks and their associated assets in an organized grid layout.
